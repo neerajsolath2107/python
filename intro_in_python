@@ -1,0 +1,12 @@
+#for print the my intro in python lanugage
+
+print("I am Neeraj from Durjanpur,Bhiwani.")
+print("I have completed my 12th from Science Stream.")
+print("I a doing BCA from CRM Jat College,Hisar.")
+print("My hobbies are listening to music and playing cricket.")
+print("My short-term goal is to get a job in a reputed company.")
+print("My long-term goal is to achieve a good position to build my career.")
+print("My strengths are easy to learn new skills and hard working person.")
+print("That's all about me.")
+
+print("Thank you.")
