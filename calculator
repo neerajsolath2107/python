@@ -1,0 +1,6 @@
+a = 2
+b = 3
+print("Addition of 2 and 3 : ",a+b)
+print("Subtraction 2 from 3 : ", a-b)
+print("Multiplication of 2 and 3 : ", a*b)
+print("Divide 2 by 3 : ", a/b)
